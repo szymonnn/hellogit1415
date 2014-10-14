@@ -2,8 +2,8 @@
 
 <students>
     <student>
-        <firstname>Student1</firstname>
-        <lastname>Student1</lastname>
+        <firstname>student1</firstname>
+        <lastname>student1</lastname>
         <email>student@uek.krakow.pl</email>
         <github>studuek</github>
         <group>jkanclerz</group>
@@ -21,5 +21,19 @@
         <email>marcin.zgoda@gmail.com</email>
         <github>zgm92</github>
         <group>KrDzIS3011io</group>
+    </student><student>
+        <firstname>Marcin</firstname>
+        <lastname>Zgoda</lastname>
+        <email>marcin.zgoda@gmail.com</email>
+        <github>zgm92</github>
+        <group>KrDzIS3011io</group>
     </student>
+	<student>
+        <firstname>racbed</firstname>
+        <lastname>kaddoura</lastname>
+        <email>rashed_kaddoura@hotmail.com</email>
+        <github>rachedkad</github>
+        <group>KrDzIS3012</group>
+    </student>
+
 </students>
