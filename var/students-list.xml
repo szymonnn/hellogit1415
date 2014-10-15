@@ -29,4 +29,13 @@
         <github>almera7</github>
         <group>KrDzia3012</group>
     </student>
+
+    <student>
+        <firstname>Ivan</firstname>
+        <lastname>Popov</lastname>
+        <email>josmoize@gmail.com</email>
+        <github>josmoize</github>
+        <group>KrDzia3011</group>
+    </student>
+
 </students>
