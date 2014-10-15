@@ -29,4 +29,12 @@
         <github>almera7</github>
         <group>KrDzia3012</group>
     </student>
+ <student>
+        <firstname>Maciej</firstname>
+        <lastname>Muchajer</lastname>
+        <email>mmuchajer@o2.pl</email>
+        <github>Keverus</github>
+        <group>KrDZIs3012Si</group>
+    </student>
+
 </students>
