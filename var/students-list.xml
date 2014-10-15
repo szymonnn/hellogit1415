@@ -22,11 +22,18 @@
         <github>zgm92</github>
         <group>KrDzIS3011io</group>
     </student>
- <student>
+    <student> 
         <firstname>Elena</firstname>
         <lastname>Iakovlieva</lastname>
         <email>almera7@interia.eu</email>
         <github>almera7</github>
         <group>KrDzia3012</group>
+    </student>
+    <student>
+      <firstname>Filip</firstname>
+        <lastname>Koziarski</lastname>
+        <email>filipkoziarski@gmail.com</email>
+        <github>easymuffin1</github>
+        <group>KrDzia3011</group>
     </student>
 </students>
