@@ -22,6 +22,7 @@
         <github>zgm92</github>
         <group>KrDzIS3011io</group>
     </student>
+
  <student>
         <firstname>Elena</firstname>
         <lastname>Iakovlieva</lastname>
@@ -29,4 +30,12 @@
         <github>almera7</github>
         <group>KrDzia3012</group>
     </student>
+	<student>
+        <firstname>Michal</firstname>
+        <lastname>Kabara</lastname>
+        <email>michal.michal996@gmail.com</email>
+        <github>thortor</github>
+        <group>KrDzia3011</group>
+    </student>
+
 </students>
