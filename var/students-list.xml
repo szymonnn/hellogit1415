@@ -85,4 +85,11 @@
         <github>czarek19937</github>
         <group>KrDzIS3011</group>
     </student>
+ <student>
+        <firstname>Martyna</firstname>
+        <lastname>Graca</lastname>
+        <email>martyna_graca@wp.pl</email>
+        <github>martyna1635</github>
+        <group>KrDzIs3012Si</group>
+    </student>
 </students>
