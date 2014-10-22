@@ -132,6 +132,13 @@
         <lastname>Kabara</lastname>
         <email>michal.michal996@gmail.com</email>
         <github>thortor</github>
+ <group>KrDzia3011</group>
+    </student>
+<student>
+        <firstname>Artur</firstname>
+        <lastname>Philipp</lastname>
+        <email>aphilipp@stud.hs-heilbronn.de</email>
+        <github>aphilipp</github>
         <group>KrDzia3011</group>
     </student>
 </students>
