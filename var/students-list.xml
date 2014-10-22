@@ -28,6 +28,7 @@
         <email>wojcikk@uek.krakow.pl</email>
         <github>Fiona84</github>
         <group>Teacher</group>
+	</student>	
      <student>
         <firstname>Elena</firstname>
         <lastname>Iakovlieva</lastname>
@@ -139,6 +140,13 @@
         <email>aphilipp@stud.hs-heilbronn.de</email>
         <github>aphilipp</github>
         <group>KrDzia3011</group>
+    </student>
+ <student>
+        <firstname>Nataliia</firstname>
+        <lastname>Stanislavska</lastname>
+        <email>s179447@uek.krakow.pl</email>
+        <github>Stanislavska</github>
+        <group>KrDZIa3011</group>
     </student>
 </students>
 
