@@ -28,8 +28,8 @@
         <email>wojcikk@uek.krakow.pl</email>
         <github>Fiona84</github>
         <group>Teacher</group>
-	</student>	
-     <student>
+    </student>	
+    <student> 
         <firstname>Elena</firstname>
         <lastname>Iakovlieva</lastname>
         <email>almera7@interia.eu</email>
@@ -160,6 +160,13 @@
         <lastname>Lewicka</lastname>
         <email>barbara.kinga.lewicka@gmail.com</email>
         <github>lewickab</github>
+        <group>KrDzia3011</group>
+    </student>
+    <student>
+      <firstname>Filip</firstname>
+        <lastname>Koziarski</lastname>
+        <email>filipkoziarski@gmail.com</email>
+        <github>easymuffin1</github>
         <group>KrDzia3011</group>
     </student>
 </students>
