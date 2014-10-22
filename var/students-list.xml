@@ -90,6 +90,15 @@
         <lastname>Graca</lastname>
         <email>martyna_graca@wp.pl</email>
         <github>martyna1635</github>
+	<group>KrDzIs3012Si</group>
+    </student>
+    <student>
+        <firstname>Natalia</firstname>
+        <lastname>Gola</lastname>
+        <email>natalia.gola93@gmail.com</email>
+        <github>Nati93</github>
         <group>KrDzIs3012Si</group>
     </student>
 </students>
+
+
