@@ -28,8 +28,7 @@
         <email>wojcikk@uek.krakow.pl</email>
         <github>Fiona84</github>
         <group>Teacher</group>
-    </student>
- <student>
+     <student>
         <firstname>Elena</firstname>
         <lastname>Iakovlieva</lastname>
         <email>almera7@interia.eu</email>
@@ -127,6 +126,13 @@
         <email>idrather@not.tell</email>
         <github>YaroslavaR</github>
         <group>KrDzIa3011</group>
+    </student>
+	<student>
+        <firstname>Michal</firstname>
+        <lastname>Kabara</lastname>
+        <email>michal.michal996@gmail.com</email>
+        <github>thortor</github>
+        <group>KrDzia3011</group>
     </student>
 </students>
 
