@@ -217,12 +217,20 @@
         <email>biofizyk@gmail.com</email>
         <github>KrolSalomon</github>
         <group>KrZZIs3012Io</group>
+    </student>
     <student>
         <firstname>Gabriel</firstname>
         <lastname>Gabzdyl</lastname>
         <email>gabrielgvip@interia.pl</email>
         <github>pingwingg</github>
         <group>Krzzis3012Io</group>
+    </student>
+    <student>
+        <firstname>Grzegorz</firstname>
+        <lastname>Kozak</lastname>
+        <email>......</email>
+        <github>......</github>
+        <group>z3012io</group>
     </student>
 </students>
 
