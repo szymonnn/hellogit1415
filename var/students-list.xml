@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <students>
-    <student>
+ <student>
+	<firstname>Agnieszka</firstname>
+	<lastname>Pilch</lastname>
+	<email>e.amaire@gmail.com</email>
+	<github>Amaire</github>
+	<group>KrZZIs3012Io</group>
+ </student>   
+ <student>
         <firstname>Student1</firstname>
         <lastname>Student1</lastname>
         <email>student@uek.krakow.pl</email>
