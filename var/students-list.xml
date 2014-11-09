@@ -203,7 +203,14 @@
         <email>xmazu@yahoo.com</email>
         <github>xmazu</github>
         <group>KrzzIS3012io</group>
-    </student>	
+    </student>
+    <student>
+	<firstname>Agnieszka</firstname>
+        <lastname>Grzadziel</lastname>
+        <email>grzadziel.a@poczta.fm</email>
+        <github>AgGrz</github>
+        <group>KrZZIs3012io</group>
+    </student>
 </students>
 
 
