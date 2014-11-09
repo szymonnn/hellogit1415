@@ -186,7 +186,7 @@
      <student>
         <firstname>Grzegorz</firstname>
         <lastname>Orzycki</lastname>
-        <email>grzegorz_kaddoura@hotmail.com</email>
+        <email>grzegorz_.........@hotmail.com</email>
         <github>crestefallen666</github>
         <group>KrZZIs3012Io</group>
     </student>
@@ -217,6 +217,12 @@
         <email>biofizyk@gmail.com</email>
         <github>KrolSalomon</github>
         <group>KrZZIs3012Io</group>
+    <student>
+        <firstname>Gabriel</firstname>
+        <lastname>Gabzdyl</lastname>
+        <email>gabrielgvip@interia.pl</email>
+        <github>pingwingg</github>
+        <group>Krzzis3012Io</group>
     </student>
 </students>
 
