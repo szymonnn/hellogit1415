@@ -14,7 +14,7 @@
        <email>jakub.kanclerz@gmail.com</email>
        <github>jkanclerz</github>
         <group>jkanclerz</group>
-   </student>
+    </student>
     <student>
         <firstname>Marcin</firstname>
         <lastname>Zgoda</lastname>
@@ -28,13 +28,161 @@
         <email>wojcikk@uek.krakow.pl</email>
         <github>Fiona84</github>
         <group>Teacher</group>
-</student>
-<student>
+    </student>	
+    <student> 
+        <firstname>Elena</firstname>
+        <lastname>Iakovlieva</lastname>
+        <email>almera7@interia.eu</email>
+        <github>almera7</github>
+        <group>KrDzia3012</group>
+    </student>
+    <student>
         <firstname>Iryna</firstname>
         <lastname>Parahailo</lastname>
         <email>parahailo.iryna@gmail.com</email>
         <github>Pimkie</github>
         <group>KrDZIa3013</group>
-</student>
-
+    </student>
+    <student>
+        <firstname>racbed</firstname>
+        <lastname>kaddoura</lastname>
+        <email>rashed_kaddoura@hotmail.com</email>
+        <github>rachedkad</github>
+        <group>KrDzIS3012</group>
+    </student>
+    <student>
+        <firstname>Yehor</firstname>
+        <lastname>Lukashevych</lastname>
+        <email>y.lukashevich@yahoo.com</email>
+        <github>lukashevichyehor</github>
+        <group>KrDzIa3012</group>
+    </student>
+    <student>
+        <firstname>Maciej</firstname>
+        <lastname>Muchajer</lastname>
+        <email>mmuchajer@o2.pl</email>
+        <github>Keverus</github>
+        <group>KrDZIs3012Si</group>
+    </student>
+    <student>
+        <firstname>Jakub</firstname>
+        <lastname>Stawowczyk</lastname>
+        <email>konto_do_kont@op.pl</email>
+        <github>JakubS92</github>
+        <group>KrDzIs3012Si</group>
+    </student>
+    <student>
+        <firstname>Magdalena</firstname>
+        <lastname>Wlazło</lastname>
+        <email>wlazloxmagdalena@gmail.com</email>
+        <github>maggie930727</github>
+        <group>KrDzIS3011Si</group>
+    </student>
+    <student>
+        <firstname>Cezary</firstname>
+        <lastname>Buras</lastname>
+        <email>czarek19937@gmail.com</email>
+        <github>czarek19937</github>
+        <group>KrDzIS3011</group>
+    </student>
+    <student>
+        <firstname>Martyna</firstname>
+        <lastname>Graca</lastname>
+        <email>martyna_graca@wp.pl</email>
+        <github>martyna1635</github>
+	<group>KrDzIs3012Si</group>
+    </student>
+    <student>
+        <firstname>Natalia</firstname>
+        <lastname>Gola</lastname>
+        <email>natalia.gola93@gmail.com</email>
+        <github>Nati93</github>
+        <group>KrDzIs3012Si</group>
+    </student>
+    <student>
+        <firstname>Bartlomiej</firstname>
+        <lastname>Smagacz</lastname>
+        <email>bsmagacz@hotmail.com</email>
+        <github>TheNaturator</github>
+        <group>KrDZIa3011</group>
+    </student>
+    <student>
+        <firstname>Mateusz</firstname>
+        <lastname>Walczak</lastname>
+        <email>Matkowski2@gmail.com</email>
+        <github>Valchee</github>
+        <group>KrDzia3011</group>
+    </student>
+    <student>
+	<firstname>Oleg</firstname>
+	<lastname>Hnashuk</lastname>
+	<email>oleg.gnashuk@gmail.com</email>
+	<github>gnashuk</github>
+	<group>KrDZIa3011</group>
+    </student>
+    <student>
+        <firstname>Yaroslava</firstname>
+        <lastname>Romanets</lastname>
+        <email>idrather@not.tell</email>
+        <github>YaroslavaR</github>
+        <group>KrDzIa3011</group>
+    </student>
+    <student>
+        <firstname>Michal</firstname>
+        <lastname>Kabara</lastname>
+        <email>michal.michal996@gmail.com</email>
+        <github>thortor</github>
+        <group>KrDzia3011</group>
+    </student>
+    <student>
+        <firstname>Artur</firstname>
+        <lastname>Philipp</lastname>
+        <email>aphilipp@stud.hs-heilbronn.de</email>
+        <github>aphilipp</github>
+        <group>KrDzia3011</group>
+    </student>
+ <student>
+        <firstname>Nataliia</firstname>
+        <lastname>Stanislavska</lastname>
+        <email>s179447@uek.krakow.pl</email>
+        <github>Stanislavska</github>
+        <group>KrDZIa3011</group>
+    </student>
+    <student>
+        <firstname>Ivan</firstname>
+        <lastname>Popov</lastname>
+        <email>josmoize@gmail.com</email>
+        <github>josmoize</github>
+        <group>KrDzia3011</group>
+    </student>
+    <student>
+        <firstname>Barbara</firstname>
+        <lastname>Lewicka</lastname>
+        <email>barbara.kinga.lewicka@gmail.com</email>
+        <github>lewickab</github>
+        <group>KrDzia3011</group>
+    </student>
+    <student>
+      <firstname>Filip</firstname>
+        <lastname>Koziarski</lastname>
+        <email>filipkoziarski@gmail.com</email>
+        <github>easymuffin1</github>
+        <group>KrDzia3011</group>
+    </student>
+    <student>
+        <firstname>Tetyana</firstname>
+        <lastname>Kernychna</lastname>
+        <email>tetyanakernychna@gmail.com</email>
+        <github>TetyanaKernychna</github>
+        <group>KrDZIa3012</group>
+    </student>
+    <student>
+        <firstname>Michal</firstname>
+        <lastname>Filo</lastname>
+        <email>wolverine7@onet.eu</email>
+        <github>HunReh</github>
+        <group>KrDzIs3012Si</group>
+    </student>
 </students>
+
+
