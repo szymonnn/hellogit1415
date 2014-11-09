@@ -68,7 +68,7 @@
         <firstname>Jakub</firstname>
         <lastname>Stawowczyk</lastname>
         <email>konto_do_kont@op.pl</email>
-        <github>Kask92</github>
+        <github>JakubS92</github>
         <group>KrDzIs3012Si</group>
     </student>
     <student>
@@ -182,6 +182,13 @@
         <email>wolverine7@onet.eu</email>
         <github>HunReh</github>
         <group>KrDzIs3012Si</group>
+    </student>
+     <student>
+        <firstname>Grzegorz</firstname>
+        <lastname>Orzycki</lastname>
+        <email>grzegorz_kaddoura@hotmail.com</email>
+        <github>crestefallen666</github>
+        <group>KrZZIs3012Io</group>
     </student>
 </students>
 
