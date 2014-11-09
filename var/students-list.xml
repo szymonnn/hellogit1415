@@ -7,6 +7,20 @@
         <email>souadmokdadi@yahoo.com</email>
         <github>suadmiqdadi</github>
         <group>KrDZIa3012</group>
+</student>
+ <student>
+	<firstname>Agnieszka</firstname>
+	<lastname>Pilch</lastname>
+	<email>e.amaire@gmail.com</email>
+	<github>Amaire</github>
+	<group>KrZZIs3012Io</group>
+ </student>   
+ <student>
+        <firstname>Student1</firstname>
+        <lastname>Student1</lastname>
+        <email>student@uek.krakow.pl</email>
+        <github>studuek</github>
+        <group>jkanclerz</group>
     </student>
     <student>
        <firstname>Jakub</firstname>
@@ -231,6 +245,13 @@
         <email>......</email>
         <github>......</github>
         <group>z3012io</group>
+     </student>
+     <student>
+        <firstname>Dawid</firstname>
+        <lastname>Pawlik</lastname>
+        <email>test@test.test</email>
+        <github>cary2000</github>
+        <group>KrZZis3012io</group>
     </student>
 </students>
 
